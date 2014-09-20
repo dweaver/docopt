@@ -1,6 +1,11 @@
 ``docopt`` creates *beautiful* command-line interfaces
 ======================================================================
 
+This is a branch of docopt that supports unicode argv. When this pull
+request is merged it can go away:
+
+https://github.com/docopt/docopt/pull/220
+
 Video introduction to **docopt**: `PyCon UK 2012: Create *beautiful*
 command-line interfaces with Python <http://youtu.be/pXhcPJK5cMc>`_
 
